@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>guru.springframework</groupId>
-    <artifactId>mssc-beer-order-service</artifactId>
+    <artifactId>mssc-beer-order-service_MS</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mssc-beer-order-service</name>
     <description>MSSC Beer Order Service</description>
